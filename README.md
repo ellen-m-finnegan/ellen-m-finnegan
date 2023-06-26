@@ -8,7 +8,7 @@
   I have found particular interest in Object Orientated Software Development and Database Design and Development.
 </p>
 
-<h3 align="left">Projects of Intereser:</h3>
+<h3 align="left">Projects of Interest:</h3>
 <p align="left"> <a href="https://github.com/ellen-m-finnegan/DentalDatabase">Dental Database</a>
   <br />
 <a href="https://github.com/ellen-m-finnegan/WordCloudGenerator">Word Cloud Generator</a>
