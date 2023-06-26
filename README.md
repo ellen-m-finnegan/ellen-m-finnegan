@@ -10,7 +10,7 @@
 
 <h3 align="left">Projects of Intereser:</h3>
 <p align="left"> <a href="https://github.com/ellen-m-finnegan/DentalDatabase">Dental Database</a>
-  <br\>
+  <br />
 <a href="https://github.com/ellen-m-finnegan/WordCloudGenerator">Word Cloud Generator</a>
 </p>
 
