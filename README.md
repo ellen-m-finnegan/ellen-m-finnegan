@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ellen</h1>
 <h3 align="center">A student in software development in Galway, Ireland</h3>
+<p align="left">
+  I am a final year Higher Diploma in Software Development student in ATU Galway.
+</p>
+
+<p align="left">
+  I have found particular interest in Object Orientated software development and Database Design and Development.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
