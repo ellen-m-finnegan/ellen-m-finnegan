@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ellen</h1>
-<h3 align="center">A student in software development in Galway, Ireland</h3>
 <p align="left">
-  I am a final year Higher Diploma in Software Development student in ATU Galway.
-</p>
-
-<p align="left">
-  I have found particular interest in Object Orientated Software Development and Database Design and Development.
-</p>
-
-<h3 align="left">Projects of Interest:</h3>
-<p align="left"> <a href="https://github.com/ellen-m-finnegan/DentalDatabase">Dental Database</a>
-  <br />
-<a href="https://github.com/ellen-m-finnegan/WordCloudGenerator">Word Cloud Generator</a>
+  🔭 I’m currently working ona website for The UCD Professional Academy Diploma in Front-End Web Development.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
