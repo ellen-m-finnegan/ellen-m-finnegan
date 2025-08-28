@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ellen</h1>
 <p align="left">
-  🔭 I’m currently working ona website for The UCD Professional Academy Diploma in Front-End Web Development.
+  🔭 I’m currently working on a website for The UCD Professional Academy Diploma in Front-End Web Development.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
